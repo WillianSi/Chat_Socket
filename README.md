@@ -12,8 +12,8 @@ pelo usuário Leon. Em usuário, de um nome qualquer para o remetente das mensag
 Melhorias
 - Implementação de um cliente visual, ou seja, usar o chat para criar uma aplicação swing.
 
-  <ul>
+  <ol>
     <li> George Clooney
     <li> Humphrey Bogart
     <li>Richard Gere
-  </ul>
+  </ol>
